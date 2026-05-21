@@ -1,0 +1,74 @@
+/* h1, h2,h3{
+    color: blue;
+} */
+/* 
+*{
+    background-color: blue;
+}
+
+h1{
+    background-color: red ;
+} */
+/*  */
+
+/* 
+.hello{
+    background-color: red;
+}
+
+#H4{
+    background-color: blue;
+} */
+
+/* li a{
+    background-color: rgb(6, 0, 86);
+} */
+
+
+/* 
+body {
+font-family: Arial, Verdana, sans-serif;
+color: #665544;
+color: rgb(red, green, blue);
+padding: 10px;}
+.page {
+border: 1px solid #665544;
+background-color: #efefef;
+padding: inherit;} */
+
+body{
+    background-color: grey;
+
+}
+
+
+h1{
+    background-color: blue;
+
+}
+
+h2{
+    background-color: red;
+
+}
+
+
+p{
+    background-color: rgb(0, 0,0 ,);
+    /* opacity: 0.1; */
+
+    /* FONT WEIGHT */
+
+    /* font-weight: lighter; */
+    /* font-weight: bold; */
+    /* font-weight:500; */
+
+
+    /* FONT STYLE */
+
+
+    /* font-style: italic; */
+    /* font-style: normal; */
+    font-style: oblique;
+    /* font-f amily: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+}
