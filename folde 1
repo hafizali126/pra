@@ -1,0 +1,32 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>   
+      <style> body{ background-color: bisque;}
+       h1{ color: lightcoral; 
+
+      }p{
+        color: deepskyblue;
+      }h4{
+        color: lightcoral;
+      }
+   
+
+
+    </style>
+</head>
+<body>
+<h1>My Lyfe</h1>
+<p>mera nam ali ha . main ik talib ilm hu . </p>
+    <br><h4>mera mamoolat zindagi</h4>  
+    <p>   main subha ko uthta hu  or fajar ki namaz parta hu </p>
+
+
+
+
+
+
+    
+</body>
+</html>
